@@ -1,0 +1,12 @@
+9f3317676d40ab6fc4d21ce202dbbc74 *DESCRIPTION
+41b08a52748a57488da1debab8eab28a *LICENSE
+44249c9d2ad0eaee735b5182127b55f1 *NAMESPACE
+a4f0f6fa09f3ced47170f05367b84e1c *R/vimps.R
+61a7ef3ac8ff7c7c321d0a78e2bc662f *build/vignette.rds
+216c31b129835c927faa14d92e42cc98 *inst/doc/VIMPS.R
+99303014d9ba17a5c9aea8c9d277bf16 *inst/doc/VIMPS.Rmd
+788416b8b7eaebbb9055390afd2cc833 *inst/doc/VIMPS.html
+36ed1d6c6eef7665659181ee66a32d10 *man/calc_vimps.Rd
+8151bfb82d3ebef23d567e2cd2d24764 *man/graph_results.Rd
+6e1e1ec2d402325bbd7a5670e726d5be *tests/testthat/tests-unit.R
+99303014d9ba17a5c9aea8c9d277bf16 *vignettes/VIMPS.Rmd
